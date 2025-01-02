@@ -25,3 +25,13 @@ Description Statement
 </html>
 
 
+🎨 What is CSS?
+- Cascading Style Sheets: Controls the appearance of HTML elements.
+- Adds colors, fonts, layouts, and visual appeal to web pages.
+
+📋 Key Concepts:
+1️⃣ **Selectors**: Target elements in the HTML (e.g., `<h1>`).
+2️⃣ **Rules**: Define styles with properties and values (e.g., `color`, `margin`).
+3️⃣ **The Box Model**: A framework for understanding element spacing (content, padding, border, margin).
+
+🔍 Example:
